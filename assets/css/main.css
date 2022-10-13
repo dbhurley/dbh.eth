@@ -769,11 +769,12 @@ template {
 }
 
 html {
-  line-height: 1.5;
+  line-height: 1.65;
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Bitter', 'Georgia', 'Lato', serif;
+  font-weight: 400;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -782,13 +783,29 @@ body {
 }
 
 h1 {
-  font-weight: 400;
+  font-weight: 600;
+}
+
+h2 {
+  line-height: 1.25;
+  font-weight: 500;
 }
 
 img {
   max-width: 100%;
   vertical-align: middle;
   display: inline-block;
+}
+
+.article-page img {
+  border-radius: 15px;
+  border: 1px solid #d8d8d8;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 8px 6px -6px #c8c8c8;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
 }
 
 img + em {
@@ -889,7 +906,7 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #fff;
+  /* background-color: #fff; */
 }
 
 ::-moz-selection {
@@ -996,7 +1013,7 @@ table tfoot td {
 }
 
 .about p {
-  font-size: 16px;
+  font-size: 14px;
   margin: 0 0 10px;
 }
 
@@ -1103,6 +1120,7 @@ footer .copyright {
 .post {
   width: 100%;
   max-width: 100%;
+  border: 1px solid #d8d8d8;
   margin-bottom: 1.5rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1128,13 +1146,13 @@ footer .copyright {
           box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
 }
 
-.post:hover {
+/* .post:hover {
   -webkit-transform: translate(0px, -2px);
       -ms-transform: translate(0px, -2px);
           transform: translate(0px, -2px);
   -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-}
+} */
 
 .post .post-thumbnail {
   width: 30%;
@@ -1157,12 +1175,11 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
-  font-weight: 400;
+  /* font-size: 30px; */
+  font-weight: 500;
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1262,7 +1279,7 @@ a.newer-posts:hover {
           flex-wrap: wrap;
   padding-bottom: 30px;
   margin: 30px 0;
-  border-bottom: 1px solid #a0a0a0;
+  /* border-bottom: 1px solid #a0a0a0; */
 }
 
 .page-footer .page-share {
@@ -1385,7 +1402,7 @@ a.newer-posts:hover {
     margin: 0 0 5px;
   }
   .post .post-content .post-title a {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
 
@@ -1476,6 +1493,6 @@ a.newer-posts:hover {
     margin: 0 0 5px;
   }
   .post .post-content .post-title a {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
