@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'When free speech isnt'
+img: price-of-free-speech.png
+---
+
+![price-of-free-speech]({{site.url}}/assets/img/price-of-free-speech.png)
+The recent headline news of Kanye, excuse me, Ye buying Parler (yeah, it’s that social media app you remember vaguely from the role it played in the Capitol riots) is going to be a nothing-burger. I respect the symbolic gesture, but let’s be honest about the future of this app, this brand, and the community as a whole. 
+
+Also, just a quick bonus thought- this is a lot of money and ‘fame’ when considered in association with Elon’s current Twitter acquisition.
+
+Free speech isn’t free.
