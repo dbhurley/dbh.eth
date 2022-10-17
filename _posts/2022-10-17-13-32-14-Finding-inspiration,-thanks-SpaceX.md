@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Finding inspiration, thanks SpaceX'
+title: 'Finding inspiration through intentionality'
 image: be-inspired.png
 ---
 
 ![be-inspired]({{site.url}}/assets/img/be-inspired.png)
 
-In a world that is constantly trying to get our attention, it is easy to get lost in the shuffle and forget what is truly important. However, if we take a step back and intentional about our lives, we can begin to focus on what matters most.
+This post courtesy of SpaceX and their recent YouTube livestreams. In a world that is constantly trying to get our attention, it is easy to get lost in the shuffle and forget what is truly important. However, if we take a step back and look intentionally at our lives, we can begin to focus on what matters most. 
 
 Intentionality allows us to be present in the moment and savor the small things in life. It helps us to connect with others on a deeper level and build relationships that are meaningful. Additionally, being intentional gives us a sense of purpose and direction. We are no longer just going through the motions – we are living with intention and making choices that align with our values.
 
