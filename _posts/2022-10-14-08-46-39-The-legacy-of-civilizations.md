@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The legacy of civilizations'
-img: dbh-rome.png
+image: dbh-rome.png
 ---
 
 ![dbh-rome]({{site.url}}/assets/img/dbh-rome.png)

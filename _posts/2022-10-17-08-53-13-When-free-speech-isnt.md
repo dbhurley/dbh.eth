@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'When free speech isnt'
-img: price-of-free-speech.png
+image: price-of-free-speech.png
 ---
 
 ![price-of-free-speech]({{site.url}}/assets/img/price-of-free-speech.png)

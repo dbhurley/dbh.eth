@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If a streaming service has no subscribers'
-img: netflix-dead.png
+image: netflix-dead.png
 ---
 
 ![netflix-dead]({{site.url}}/assets/img/netflix-dead.png)

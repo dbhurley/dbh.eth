@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tracking your own legs'
-img: meta-vr-legs.png
+image: meta-vr-legs.png
 ---
 
 ![meta-vr-legs]({{site.url}}/assets/img/meta-vr-legs.png)

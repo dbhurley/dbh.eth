@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Searching expands'
-img: google-etherscan.png
+image: google-etherscan.png
 ---
 
 ![Google]({{site.url}}/assets/img/google-etherscan.png)

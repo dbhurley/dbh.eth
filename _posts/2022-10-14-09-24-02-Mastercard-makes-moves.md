@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastercard makes moves'
-img: mastercard-crypto.png
+image: mastercard-crypto.png
 ---
 
 ![mastercard-crypto]({{site.url}}/assets/img/mastercard-crypto.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Information overload'
-img: information-overload.png
+image: information-overload.png
 ---
 
 ![information-overload]({{site.url}}/assets/img/information-overload.png)

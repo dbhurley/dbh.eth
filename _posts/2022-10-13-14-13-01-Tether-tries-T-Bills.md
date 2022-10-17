@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tether tries T-Bills'
-img: tether-drops-cp.png
+image: tether-drops-cp.png
 ---
 
 ![tether-drops-cp]({{site.url}}/assets/img/tether-drops-cp.png)

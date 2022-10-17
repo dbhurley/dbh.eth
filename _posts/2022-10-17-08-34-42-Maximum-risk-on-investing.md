@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maximum risk on investing'
-img: hnw-max-risk.png
+image: hnw-max-risk.png
 ---
 
 ![hnw-max-risk]({{site.url}}/assets/img/hnw-max-risk.png)

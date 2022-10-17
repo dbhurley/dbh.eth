@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yet Another Asset Class'
-img: cpi-btc.png
+image: cpi-btc.png
 ---
 
 ![cpi-btc]({{site.url}}/assets/img/cpi-btc.png)

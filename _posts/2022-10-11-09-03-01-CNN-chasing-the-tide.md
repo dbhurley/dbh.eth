@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CNN chasing the tide'
-img: cnn-chasing-the-tide.png
+image: cnn-chasing-the-tide.png
 ---
 
 ![CNN]({{site.url}}/assets/img/cnn-chasing-the-tide.png)

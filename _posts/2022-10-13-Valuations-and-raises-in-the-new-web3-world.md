@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Valuations and raises in the new web3 world'
-img: crypto-series.png
+image: crypto-series.png
 ---
 
 ![crypto-series]({{site.url}}/assets/img/crypto-series.png)

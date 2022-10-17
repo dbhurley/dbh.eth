@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google introduces risk for revenue'
-img: google-rev-risk.png
+image: google-rev-risk.png
 ---
 
 ![Google Rev Risk]({{site.url}}/assets/img/google-rev-risk.png)
