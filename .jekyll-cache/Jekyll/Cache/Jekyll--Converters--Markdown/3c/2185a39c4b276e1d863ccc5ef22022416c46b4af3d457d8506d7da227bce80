@@ -1,0 +1,31 @@
+I"I<p><img src="http://localhost:4000/assets/img/zkps-quantum-computing.png" alt="zkps-quantum-computing" /></p>
+
+<p>Zero-knowledge proofs are a type of cryptography that allows one party to prove to another party that they know a value x, without conveying any other information about x. There are several different types of zero-knowledge proofs, each with its own advantages and disadvantages.</p>
+
+<p>The first type of zero-knowledge proof is called a Pedersen Commitment. In this type of proof, the party proving that they know x generates two random numbers, a and b. They then compute c = ax + b (mod p), where p is a prime number. They send c to the other party, who verifies that c is indeed equal to ax + b (mod p). However, because the other party does not know what values of a and b were used to compute c, they cannot determine what value of x was used.
+The second type of zero-knowledge proof is called a Fiat-Shamir Heuristic. In this type of proof, the party proving that they know x generates a random number y and computes z = y^x (mod p), where p is a prime number. They send z to the other party, who verifies that z is indeed equal to y^x (mod p). However, because the other party does not know what value of y was used to compute z, they cannot determine what value of x was used. 
+The third type of zero-knowledge proof is called a Schnorr Signature. In this type of proof, the party proving that they know x generates two random numbers, a and b. They then compute c = ax + b (mod p), where p is a prime number. They send c to the other party, who verifies that c is indeed equal to ax + b (mod p). However, because the other party does not know what values of a and b were used to compute c, they cannot determine what value of x was used.</p>
+
+<p>There is no definitive answer to the question of superiority as there are a variety of ways to construct zero-knowledge proofs, and each has its own advantages and disadvantages. However, the <em>Fiat-Shamir Heuristic is often cited as being particularly efficient and versatile, and thus it is often used as the basis for constructing zero-knowledge proofs in a variety of settings</em>. <em>In fact, ZK-STARKS, my personal area of interest, utilizes the Fiat-Shamir type.</em></p>
+
+<p>Also, just for the record, there is no known way that quantum computing could hurt zero-knowledge proofs. If quantum computers were fundamentally different from classical ones, then it’s <em>possible</em> that a general purpose quantum computer could break a zero-knowledge proof (or even any proof system). But that would require some very technical assumptions, not just the existence of a quantum computer.</p>
+
+<p>Zero-knowledge proofs (ZKPs) are not the optimal way to execute transactions, but they are a very useful tool that can help improve the efficiency of certain types of transactions. 
+There are a few reasons why ZKPs are not the optimal way to execute transactions:</p>
+
+<p>ZKPs are relatively new and untested technology. There is a risk that errors could occur in the implementation of ZKPs, which could lead to incorrect results or vulnerabilities. 
+ZKPs require a lot of computational resources. In order to execute a transaction using ZKPs, all participants must be online and have access to the required computing power. This can be expensive and impractical for some applications.
+ZKPs can be slow. Transactions that use ZKPs can take longer to execute than those that do not. This can be a problem for applications that need to process large number of transactions in a short amount of time.</p>
+
+<p>But this is the broader application of zero-knowledge proofs. If we consider the more limited subset of ZK-STARKS, the main reason is that ZKSTARKS require a lot of data and computing power, which makes them too expensive for most purposes. Additionally, they are not as secure as other methods, such as ZK-SNARKs.</p>
+
+<p>Likely, everyone has heard about what’s coming next with the active Layer 2 and subsequent proposed Layer 3. Should these additional abstractions bring the proposed bundling and proofing rollups at the speeds expected this objection will be quickly resolved.  These zero knowledge proofs show a tremendous amount of potential for shaping future technologies.</p>
+
+<p>In addition to the benefits that it provides in terms of privacy and security, the various mathematical properties of ZKPs make them suitable for other applications such as 
+voting systems, file verification, cloud storage and authentication.</p>
+
+<p>As more research is conducted on zero-knowledge proofs, we are likely to see a more widespread adoption of these concepts in various technologies. ZKPs also have potential applications in the field of medicine where they can be used to verify medical test results or allow access to information while preserving the privacy of patients. 
+It is also possible that ZKPs will play a role <em>alongside</em> future quantum computers as a way of verifying computations that have been executed.</p>
+
+<p>Zero knowledge proof systems have shown a great deal of promise for enhancing the privacy and security of data. And while there are still many challenges that need to be addressed before these concepts can be widely adopted, the potential benefits make it worth exploring further. As more research is conducted on zero-knowledge proof systems, we are likely to see more applications for these concepts in various fields.</p>
+:ET

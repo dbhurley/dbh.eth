@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lawsuits Lawsuits Everwhere'
-img: tornado.png
+image: tornado.png
 ---
 
 ![Tornado]({{site.url}}/assets/img/tornado.png)
