@@ -1,0 +1,3 @@
+I"t<p><img src="http://localhost:4000/assets/img/optimistic-rollups.png" alt="optimistic-rollups" />
+Optimistic rollups are a type of second-layer scaling solution for blockchain networks that allow for increased transactional throughput /without/ sacrificing “security” or decentralization. Optimistic rollups work by batching transactions off-chain into a so-called “optimistic” data structure. This data structure is then “rolled up” onto the main chain, where it is anchored with a cryptographic proof. This proof ensures that the data in the optimistic rollup is valid, even though it was generated off-chain.</p>
+:ET
