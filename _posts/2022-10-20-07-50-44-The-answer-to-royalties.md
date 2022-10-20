@@ -20,8 +20,8 @@ Now what is this loyalty fee? Well at the highest level it is a contract based t
 
 The specifics of each loyalty fee is configurable by the creator. This can be as basic as 0 loyalty fee, or a flat monthly amount drawn down continually, or perhaps a percent drawn down continually.  Everything is placed within the smart contract and immutable to protect and provide trust against future tampering.  The amount can be negligible or meaningful.  Indirect autonomous regulation comes as a direct result from reversing the transaction focus and reshapes the relationship dynamic. 
 
-Of course the question comes up what happens if the wallet does not have the necessary funds to pay the loyalty fee? 
+The question then arises what happens if the wallet does not have the necessary funds to pay the loyalty fee? 
 
-There are of course significant nuances here to be determined and resolved. Perhaps the contract after a certain grace period defined by the creator "automatically lists up for auction"; at a price point set by the original creator. In the absence of the original creator a market oracle will determine fair market value. 
+There are significant nuances here to be determined and resolved. Perhaps the contract after a certain grace period defined by the creator "automatically lists up for auction"; at a price point set by the original creator. In the absence of the original creator a market oracle will determine fair market value. 
 
 Now of course this doesn’t solve all edge cases, but I do believe it does a great job covering everything from 1:1’s to PFP collections. And supports creators in a positive reinforcement cycle as opposed to the negative ‘enforcement’ of a royalty tax. 
