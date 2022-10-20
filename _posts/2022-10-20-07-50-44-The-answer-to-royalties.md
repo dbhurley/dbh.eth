@@ -9,7 +9,7 @@ Is only a letter away. In this thought I would suggest the better way to address
 
 First - listen to this podcast, it provides context…feel free to use 2x speed.
 
-<iframe frameBorder="0" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=LSHML1829167373&light=true"
+<iframe frameBorder="0" height="282" scrolling="no" src="https://playlist.megaphone.fm/?e=LSHML1829167373&light=true"
 width="100%"></iframe>
 
 Once you’ve done that, I hope you’ll have a strong context for my conclusion: rather than focusing on the enforcement of future fees on future sales (the current debate)  where we attempt to “police” things; instead we flip our point of view. I would propose the solution is *Loyalty Patronages.* Rather than considering it a fee, it’s an opportunity for the buyer to express and support their favorite creator. 
@@ -22,6 +22,6 @@ The specifics of each loyalty fee is configurable by the creator. This can be as
 
 Of course the question comes up what happens if the wallet does not have the necessary funds to pay the loyalty fee? 
 
-Per the Loyalty contract after a certain grace period defined by the creator the NFT is automatically placed up for auction; at a price point set by the original creator. In the absence of the original creator a market oracle will determine fair market value. 
+There are of course significant nuances here to be determined and resolved. Perhaps the contract after a certain grace period defined by the creator "automatically lists up for auction"; at a price point set by the original creator. In the absence of the original creator a market oracle will determine fair market value. 
 
 Now of course this doesn’t solve all edge cases, but I do believe it does a great job covering everything from 1:1’s to PFP collections. And supports creators in a positive reinforcement cycle as opposed to the negative ‘enforcement’ of a royalty tax. 
