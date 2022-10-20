@@ -10,3 +10,5 @@ Legacies are not always what you anticipate. But more importantly, your legacy i
 >”Perseverance is not a long race; it is many short races one after the other." -Walter Elliott
 
 Takeaway - life takes unexpected turns, don’t give up.
+
+https://twitter.com/ChrisJBakke/status/1583104284559781889?s=20&t=lVRFenHx2HZUFjMrnlvMQw
