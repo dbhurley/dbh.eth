@@ -1,0 +1,44 @@
+I"�<p><img src="http://localhost:4000/assets/img/sd-future-community.png" alt="sd-future-community" />
+If I were to create a token for an open source community I think there’s a few compelling ways to go about it.  However, in order to give a concrete example to work through I’m going to reference one of my recent most favorite open source projects, Stable Diffusion. If you don’t know about Stable Diffusion I recommend reading more about what they are doing in democratizing AI generative art (even that is mouthful which doesn’t adequately describe what they are undertaking…and accomplishing!).</p>
+
+<p>There are valuable resources on tokenomics existing in the world already and I would be remiss to not mention the one I <a href="https://breadcrumb.vc/bootstrapping-web3-networks-the-limitations-of-token-incentives-4b57fa54486c">reference the most</a>.  If you need a review on the topic of token incentives, and how the network effects are implemented for both good and bad, start here.</p>
+
+<p>Assuming you have this knowledge already, I’ll be direct and succinct in outlining a mechanism for a token incentive which ideally overcomes the cold start problem and lays the foundation for a powerful future utility.</p>
+
+<p><strong>NOTE: These numbers are used for simplicity sake alone.</strong></p>
+
+<p>Assume the Stable Diffusion Company creates an online generator for their cutting edge “latest release” version. And assume, the Stable Diffusion token is called $SD and starts with some initial treasury of total tokens centrally held by the Stable Diffusion Company. This initial team also sets in place the initial framework for token distribution and utility-related expenses. Let’s imagine they created the following structure:</p>
+
+<ol>
+  <li>Earn 1 $SD for every generated graphic, declining algorithmic</li>
+  <li>Spend 0.5 $SD for every generated graphic, fixed cost</li>
+  <li>Earn 1 $SD for every graphic shared, community governed</li>
+  <li>Spend 1 $SD for every NFT created from graphic, community governed</li>
+  <li>Earn X $SD multiple for every NFT sold, commission fee community governed</li>
+</ol>
+
+<p>In this situation, the most important aspect to consider is the dynamic approach to token implementation and utilization.  Here’s the key reasons for this distribution preference:</p>
+
+<ol>
+  <li>Early users earn $SD with no “downside” to those earnings. This is the reward incentive, standard early adopter network effect. This encourages <em>active participation</em> from each user, but given the various time constraints, and associated costs there is some light dis-incentive to not “game the system”.  User wallets grow. Company Treasury Reserve shrinks.</li>
+  <li>Spending a smaller portion of $SD incorporates a net positive for user wallets while also implementing, from the very beginning, the concept of a paid service. This is a cost with a fixed % of related to token market cap and distribution.  Company Treasury &amp; Community Treasury grow.
+(Fee = Fixed % Stable Diffusion Company + Community Treasury Fee)</li>
+  <li>Earn $SD for each time you upload a graphic to a community portfolio site, the amount earned becomes community governed once the distributed token supply surpasses a set amount.  Company Treasury Reserve and Community Treasury shrink.</li>
+  <li>Spend $SD for each graphic converted to an NFT. Creation fee is based on network fees + base fee from Stable Diffusion Company + Community Treasury fee.</li>
+  <li>Earn $SD for each NFT sold. Commission fee governed by the Community Treasury. /Additionally earn $SD for each voted upon contest winner/ Company Treasury Reserve initially, then Community Treasury eventually shrinks.</li>
+</ol>
+
+<p>Community Treasure grows and is governed by the token holders. Once the community has grown to a defined distribution level the Stable Diffusion Company smart contracts trigger the community governance model where community voting governs the relative Community Treasury Fees mentioned in #2 and #4 as well as determining the decreasing rate of distribution for #3.</p>
+
+<ul>
+  <li>In this way the system distributes assets to the community, incentives system use while disincentivizing gaming the system for token accumulation and the initial lack of intrinsic value makes speculative investment unprofitable.</li>
+  <li>The system also establishes a commercial venture opportunity while not stifling community growth.</li>
+  <li>The community gains control of a meaningful portion of the fee generation process instilling a sense of ownership and future value while gradually increasing token value.</li>
+  <li>In a future equilibrium the cost for creating a new graphic and subsequently creating an NFT will be offset by the sale of the NFT or the winning of a community generated contest.</li>
+  <li>Transparency in the smart contracts created will instill trust and security in the future “gates” by which the community gains control over their treasury.</li>
+</ul>
+
+<p>This isn’t perfect, and flaws certainly will arise, but I would consider the above to be a great starting point for a community rewards system linked to a somewhat centralized catalyst group with a financial goal.</p>
+
+<p><em>What do you think? What would you change? What doesn’t work? What does?</em></p>
+:ET
